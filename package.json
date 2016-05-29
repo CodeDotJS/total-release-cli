@@ -27,6 +27,10 @@
     "package",
     "node",
     "count",
+    "total",
+    "releases",
+    "total-release",
+    "node-package",
     "npm-package"
   ],
   "dependencies": {
