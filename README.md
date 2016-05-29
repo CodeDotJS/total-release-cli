@@ -25,6 +25,16 @@ $ total-release
 	❱ Example : total-release express
 ```
 
+## Example
+
+```
+$ total-release browserify
+
+	Fetching total releases of browserify..
+
+	458
+```
+
 ## Related
 
 - [total-release](https://github.com/CodeDotJS/total-release) : API for this tool.
