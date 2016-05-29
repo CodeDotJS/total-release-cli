@@ -1,0 +1,49 @@
+{
+  "name": "total-release-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to find the total releases of a node package available on npm",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedotjs/total-release-cli.git"
+  },
+  "author": "Rishi Giri <rushforlinux@gmail.com> (rishigiri.com)",
+  "bin": {
+    "total-release": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "npm",
+    "package",
+    "node",
+    "count",
+    "npm-package"
+  ],
+  "dependencies": {
+    "colors": "*",
+    "total-release": "*"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "pify": "^2.2.0",
+    "xo": "*"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "bugs": {
+    "url": "https://github.com/codedotjs/total-release-cli/issues"
+  },
+  "homepage": "https://github.com/codedotjs/total-release-cli#readme",
+  "main": "cli.js"
+}
