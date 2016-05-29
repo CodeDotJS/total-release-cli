@@ -2,6 +2,7 @@
 
 > CLI tool to find the total releases of a node package available on npm.
 
+[![Build Status](https://travis-ci.org/CodeDotJS/total-release-cli.svg?branch=master)](https://travis-ci.org/CodeDotJS/total-release-cli)
 
 ## Install
 
