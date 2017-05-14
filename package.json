@@ -1,6 +1,6 @@
 {
   "name": "total-release-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool to find the total releases of a node package available on npm",
   "license": "MIT",
   "repository": {
